@@ -1,17 +1,24 @@
-# testing
+# Pocket Melody
 
-A new Flutter project.
+Pocket Melody is a Windows desktop music player designed to look and feel like a mobile application. Its main purpose is to provide a first hands-on experience with the inner workings of music players, so I decided to use Flutter because of its cross-platform capabilities.
 
-## Getting Started
+### Features
 
-This project is a starting point for a Flutter application.
+It is, quite simply, an audio file player and metadata reader, nothing more and nothing less. It reads the files stored in the default Music folder on your computer, displaying and listing their contents based on each file's metadata.
 
-A few resources to get you started if this is your first Flutter project:
+### Future implementations
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Implement a selector for the main folder from which you can browse and play your files.
+    
+- Improve performance in certain areas, such as preventing the "flickering" that occurs when some widgets are loaded.
+    
+- Improve the visual appearance.
+    
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshots
+
+![C:\Users\FLUTTER\Documents\Proyectos Flutter\pocketMelody\docs\screenshots\playlist_view.png](./docs/screenshots/playing_view.png)
+
+![C:\Users\FLUTTER\Documents\Proyectos Flutter\pocketMelody\docs\screenshots\nujabes_playlist_view.png](./docs/screenshots/nujabes_playlist_view.png)
+
+![C:\Users\FLUTTER\Documents\Proyectos Flutter\pocketMelody\docs\screenshots\playing_view.png](./docs/screenshots/playing_view.png)
