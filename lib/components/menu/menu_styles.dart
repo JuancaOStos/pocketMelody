@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const Text appBarTitle = Text('Pocket Beat');
+const Text appBarTitle = Text('Pocket Melody');
 const TextStyle appBarTextStyle = TextStyle(
   color: Colors.white,
   fontSize: 20

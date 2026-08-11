@@ -8,11 +8,11 @@ import 'package:audioplayers/audioplayers.dart';
 
 class SongProvider extends ChangeNotifier {
   // Carpeta principal desde la que puedes navegar
-  final String mainFolder = 'C:\\Users\\UserName\\Music';
+  final String mainFolder = 'C:\\Users\\FLUTTER\\Music';
   final AudioPlayer _player = AudioPlayer();
   
   // Directorio actual sobre el que te encuentras actualmente
-  String _currentFolder = 'C:\\Users\\UserName\\Music';
+  String _currentFolder = 'C:\\Users\\FLUTTER\\Music';
 
   // Carpetas disponibles en el directorio actual
   final List<Folder> _folderDataList = [];
