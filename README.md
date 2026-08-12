@@ -17,7 +17,7 @@ It is, quite simply, an audio file player and metadata reader, nothing more and 
 
 ### Screenshots
 
-![C:\Users\FLUTTER\Documents\Proyectos Flutter\pocketMelody\docs\screenshots\playlist_view.png](./docs/screenshots/playing_view.png)
+![C:\Users\FLUTTER\Documents\Proyectos Flutter\pocketMelody\docs\screenshots\playlist_view.png](./docs/screenshots/playlist_view.png)
 
 ![C:\Users\FLUTTER\Documents\Proyectos Flutter\pocketMelody\docs\screenshots\nujabes_playlist_view.png](./docs/screenshots/nujabes_playlist_view.png)
 
